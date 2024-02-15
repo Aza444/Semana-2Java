@@ -6,7 +6,7 @@ package operaciones.básicas;
 
 /**
  *
- * @author brand
+ * @author azarias
  */
 import java.util.Scanner;
 

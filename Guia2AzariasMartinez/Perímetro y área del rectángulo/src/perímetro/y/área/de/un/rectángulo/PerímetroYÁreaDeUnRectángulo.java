@@ -6,7 +6,7 @@ package perímetro.y.área.de.un.rectángulo;
 
 /**
  *
- * @author brand
+ * @author azarias
  */
 import java.util.Scanner;
 

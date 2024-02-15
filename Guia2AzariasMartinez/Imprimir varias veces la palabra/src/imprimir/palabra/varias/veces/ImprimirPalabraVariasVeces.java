@@ -6,7 +6,7 @@ package imprimir.palabra.varias.veces;
 
 /**
  *
- * @author brand
+ * @author azarias
  */
 import java.util.Scanner;
 

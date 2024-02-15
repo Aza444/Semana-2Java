@@ -6,7 +6,7 @@ package área.y.volumen.de.una.circunferencia;
 
 /**
  *
- * @author brand
+ * @author azarias
  */
 import java.util.Scanner;
 

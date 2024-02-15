@@ -6,7 +6,7 @@ package mayor.de.tres.números;
 
 /**
  *
- * @author brand
+ * @author azarias
  */
 import java.util.Scanner;
 
